@@ -1,0 +1,23 @@
+{
+  "name": "agentpay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rojasjuniore/agentpay.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rojasjuniore/agentpay/issues"
+  },
+  "homepage": "https://github.com/rojasjuniore/agentpay#readme",
+  "dependencies": {
+    "viem": "^2.45.1"
+  }
+}
